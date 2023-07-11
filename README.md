@@ -1,5 +1,5 @@
 
-jknn;
+
  <!-- header of website layout -->
  <div class = "header">
     <h1 style = "color:rgb(7, 177, 73);font-size:300%;text-align: center;">
