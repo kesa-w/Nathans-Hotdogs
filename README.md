@@ -33,7 +33,7 @@ width="50%">
 </p>
 <body>
     <iframe width="420" height="315" class= "center"
-    src="https://www.youtube.com/embed/idAvte3I0KA?start=10"> <!--Need to Move this to Joey's Section -->
+    src="https://www.youtube.com/embed/idAvte3I0KA?start=10"> 
     </iframe>
   </body>
   <style> 
@@ -44,7 +44,7 @@ width="50%">
         width: 50%;
       }
     </style> 
-    <img src="JChestnut_Wins.png" alt="Joey Chesnut Wins" class="center"> <!--Added Graphic from Data Wrapper -->
+    <img src="JChestnut_Wins.png" alt="Joey Chesnut Wins" class="center"> 
     
 
 
