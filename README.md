@@ -1,9 +1,5 @@
 
-  </head>
-  <body>
-  </body>
-</html>
-
+jknn;
  <!-- header of website layout -->
  <div class = "header">
     <h1 style = "color:rgb(7, 177, 73);font-size:300%;text-align: center;">
@@ -36,14 +32,6 @@ width="50%">
     src="https://www.youtube.com/embed/idAvte3I0KA?start=10"> 
     </iframe>
   </body>
-  <style> 
-    img { 
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        width: 50%;
-      }
-    </style> 
     <img src="JChestnut_Wins.png" alt="Joey Chesnut Wins" class="center"> 
     
 
