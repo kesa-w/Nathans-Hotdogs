@@ -1,4 +1,4 @@
-jkn;in
+
   </head>
   <body>
   </body>
@@ -23,10 +23,7 @@ width="50%">
   </h3>
   <p> Every 4th of July, Nathan's Hot Dogs host a hot dog competition in Coney Island, New York. The project aims to analyze the competition by year and review the number of hot dogs
     at by competitors that won atleast three times.
-</p>
-
-    <img src="Repeat Winners.png" alt="Winners" class="center"> <!--Added Graphic from Data Wrapper -->
-    
+</p>    
 <h1 style="color:forestgreen;font-size:270%;text-align: center;" > 
     Joey Chestnut
 </h1>
